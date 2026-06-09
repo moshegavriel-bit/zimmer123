@@ -1,0 +1,14 @@
+✓ index.html
+✓ admin.html
+✓ reviews.html
+✓ leads.html
+✓ owner.html
+✓ build-info.txt
+✓ _headers
+✓ _redirects
+✓ manifest.json
+✓ og-image.jpg
+✓ robots.txt
+✓ sitemap.xml
+✓ sw.js
+✓ properties-seed.json
